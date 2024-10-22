@@ -37,7 +37,7 @@
     font-weight: 600;
     font-size: 17px;
     transition: all linear 0.25s;
-    border-bottom: 3px solid #bf0000;
+    border-bottom: 3px solid #efefef;
 }
 
 .profile-card-2:hover img {
